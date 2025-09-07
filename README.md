@@ -2,7 +2,7 @@
 
 A machine learning-based system to predict the likelihood of diabetes in individuals using medical attributes. The project leverages the Pima Indians Diabetes Dataset, applies K-Nearest Neighbors (KNN) for classification, and integrates the trained model into a Django web application for real-time predictions.
 
-🔗 Live Demo: Diabetes Prediction App
+🔗 Live Demo: https://predictdiabetes.pythonanywhere.com/ 
 
 📌 Project Overview
 
