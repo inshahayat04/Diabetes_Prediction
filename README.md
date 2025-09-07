@@ -64,7 +64,6 @@ F1-score
 Confusion Matrix
 
 Key Observations:
-
 1. Glucose, BMI, and Age are the strongest predictors.
 2. KNN classifier provided reliable predictions with balanced performance metrics.
 
