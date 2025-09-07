@@ -22,9 +22,13 @@ The trained model classifies individuals as diabetic (1) or non-diabetic (0).
 ## ⚙️ Features
 
 ✅ Machine Learning Model trained using KNN classifier
+
 📊 Exploratory Data Analysis (EDA) with visualization of key patterns
+
 🖥️ Django Web Application with a clean, responsive UI
+
 ⚡ Real-time Predictions on patient health data
+
 ☁️ Deployed on PythonAnywhere for accessibility
 
 ## Project Structure
