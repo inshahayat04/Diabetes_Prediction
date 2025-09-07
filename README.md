@@ -4,7 +4,7 @@ A machine learning-based system to predict the likelihood of diabetes in individ
 
 🔗 Live Demo: Diabetes Prediction App
 
-##📌 Project Overview
+📌 Project Overview
 
 Diabetes is one of the most widespread chronic diseases worldwide. Early detection plays a crucial role in reducing complications and improving patient outcomes. This project applies machine learning to clinical features such as:
 
@@ -19,16 +19,12 @@ Diabetes is one of the most widespread chronic diseases worldwide. Early detecti
 
 The trained model classifies individuals as diabetic (1) or non-diabetic (0).
 
-## ⚙️ Features
+⚙️ Features
 
 ✅ Machine Learning Model trained using KNN classifier
-
 📊 Exploratory Data Analysis (EDA) with visualization of key patterns
-
 🖥️ Django Web Application with a clean, responsive UI
-
 ⚡ Real-time Predictions on patient health data
-
 ☁️ Deployed on PythonAnywhere for accessibility
 
 ## Project Structure
@@ -48,7 +44,7 @@ The project uses the Pima Indians Diabetes Dataset, a well-known benchmark datas
 Source: https://www.kaggle.com/code/aneevinay/diabetics-prediction/input 
 Target Variable: Outcome → 1 (Diabetic) / 0 (Non-Diabetic)
 
-## 🚀 Deployment
+🚀 Deployment
 
 Steps followed for deployment on PythonAnywhere:
 
@@ -57,7 +53,7 @@ Steps followed for deployment on PythonAnywhere:
 3. Configure Django settings & static files
 4. Run migrations & start server
 
-## 📈 Model Performance
+📈 Model Performance
 
 The model was evaluated using:
 
@@ -72,14 +68,14 @@ Key Observations:
 1. Glucose, BMI, and Age are the strongest predictors.
 2. KNN classifier provided reliable predictions with balanced performance metrics.
 
-## 📌 Future Enhancements
+📌 Future Enhancements
 
 1. Add more advanced models (Logistic Regression, Random Forest, Deep Learning)
 2. Expand dataset for higher accuracy
 3. Integrate wearable device data for real-time monitoring
 4. Add Tailwind CSS for modern UI with dark mode
 
-## 📚 References
+📚 References
 
-Scikit-learn Documentation: https://scikit-learn.org/stable/modules/neighbors.html#neighbors 
-Django Documentation: https://docs.djangoproject.com/en/5.2/ 
+1. Scikit-learn Documentation: https://scikit-learn.org/stable/modules/neighbors.html#neighbors 
+2. Django Documentation: https://docs.djangoproject.com/en/5.2/ 
