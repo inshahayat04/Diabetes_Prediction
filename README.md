@@ -57,11 +57,7 @@ Steps followed for deployment on PythonAnywhere:
 
 The model was evaluated using:
 
-Accuracy
-Precision
-Recall
-F1-score
-Confusion Matrix
+Accuracy, Precision, Recall, F1-score and Confusion Matrix
 
 Key Observations:
 1. Glucose, BMI, and Age are the strongest predictors.
